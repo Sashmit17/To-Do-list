@@ -1,7 +1,4 @@
 # To-Do-list
-To make your README file helpful for others, you can include the following key sections based on the provided code:
-
-To-Do List Application
    A simple to-do list web application that allows users to add, delete, and mark tasks as completed. It also saves the tasks in the local storage so that tasks persist even after the page is refreshed.
 
 Features
